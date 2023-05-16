@@ -29,7 +29,7 @@ class ImagineExtension extends \Twig_Extension
     public function getFilters()
     {
         return array(
-            'apply_filter' => new \Twig_Filter_Method($this, 'applyFilter'),
+            'apply_filter' => new \Twig_SimpleFilter($this, 'applyFilter'),
         );
     }
 
