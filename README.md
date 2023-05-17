@@ -1,4 +1,4 @@
-Deprecated
+Fork of depreacated project
 ==========
 
 This project is no longer actively maintained, please find one of the populate forks. Thanks!
